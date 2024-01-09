@@ -13,4 +13,6 @@ Binary Operations.
 
 **NOTE:** 
 If you are using **DEV C++**, then change the language standard from C++ 98 to GNU ++ 11 in compiler settings otherwise the code will not compile and if you are using Visual Studio or online compilers then no need to worry, the code will compile smoothly without any problems.
-**DEVELOPER:**Muhammad Khurram Khalid 
+
+**DEVELOPER:**
+Muhammad Khurram Khalid

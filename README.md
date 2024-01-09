@@ -16,5 +16,6 @@ If you are using **DEV C++**, then change the language standard from C++ 98 to G
 
 **DEVELOPER:**
 Muhammad Khurram Khalid
+
 **INSTRUCTOR:**
-Professor Dr. Noman Islam (https://www.youtube.com/@dr.nomanislam)
+Professor Dr. Noman Islam ( https://www.youtube.com/@dr.nomanislam )

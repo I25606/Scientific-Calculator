@@ -10,4 +10,5 @@ Additional Operations,
 Complex Number,
 Matrix Operations and
 Binary Operations.
-**Note:** 
+**NOTE:** 
+If you are using **DEV C++**, then change the language standard from C++ 98 to GNU ++ 11 in compiler settings otherwise the code will not compile and if you are using Visual Studio or online compilers then no need to worry, the code will run smoothly on these IDE.

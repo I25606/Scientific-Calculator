@@ -2,7 +2,7 @@
 I have created this Scientific Calculator code using C++.
 It includes the following operations:
 Basic Operations,
-Trigonometric Operations,
+Trignometric Operations,
 Algebraic Operations,
 Logarithmic Operations,
 Statistical Operations,
